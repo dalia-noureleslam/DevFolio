@@ -1,0 +1,246 @@
+.head-background{
+    background-attachment: fixed;
+    background-color: blue;
+    background-image:url(../img/hero-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+     position: relative;
+              }
+
+    
+.layer{
+        background-color: rgba(0, 0, 0, .6) ;
+        position:absolute;
+        z-index: 10px;
+        top: 0;
+        left: 0;
+        width: 100%;
+         height: 100%;
+     }
+
+
+.hero-title{color: #fff;
+           font-weight: 600;
+           font-size: 3rem;
+           margin-bottom: 1.5rem;}
+
+
+.herop{font-weight: 600;
+        font-size: 1.5rem;
+        color: #fff;}
+
+.test ul li a {color: #fff !important;}
+.nave-line{
+  width: 50px;
+  height: 10px;
+  background-color: #f4f4f4;
+  transition: .5s ;}
+
+
+.navbar-brand{font-size: 28px;
+              letter-spacing: 1px;
+              font-weight: 600;}
+.navbar-nav{font-size: 16px;
+            font-weight: 600;
+            letter-spacing: .4px;}
+
+.ul-info{list-style: none;}
+
+.h-25{height: 10px !important;}
+
+.rounded-start{border-radius: 0 !important;}
+
+.ul-info li span{color: #4e4e4e; 
+                 padding: 5px;}
+.about-title span{width: 40px;
+                  height: 5px;
+                  background-color: #0078ff;
+                  margin: 0 auto;}
+.about-details p{font-size: 1.25rem; 
+                 font-weight: 300;
+                 color: #4e4e4e;}
+
+ /* .about-title::after{
+      content: "";
+      position: absolute;
+      width:100px;
+      height:3px;
+      bottom: 85%;
+      left: 46%;
+     background-color: blue;
+  }*/
+
+  .about{background-color: #f4f4f4;
+         padding-top: 4rem;
+         padding-bottom: 4rem;}
+
+  .box-shadow-full{padding: 3rem 1.25rem;
+                   position: relative;
+                   background-color: #fff;
+                   margin-bottom: 3rem; 
+                   z-index: 2;
+                   box-shadow: 0 1px 1px 0 rgb(0 0 0/6%),0 2px 5px 0 rgb(0 0 0 /20%)}
+
+.service{background-color: #f4f4f4;
+        padding-top: 4rem;
+       padding-bottom: 4rem;}
+
+
+.title{font-size: 3rem;
+       font-weight: bold;
+       text-transform: uppercase;
+       color: #1e1e1e;}
+
+.subtitle{color: #1e1e1e;}
+
+
+.line{width: 40px;
+      height: 5px;
+      background-color: #0078ff;
+      margin: 0 auto;}
+
+
+.circle{height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        text-align: center;
+        box-shadow: 0 0 0 10px #0078ff;
+         margin: 0 auto;}
+         .circie:hover{background: aqua;}
+
+ .service-box{background-color: #fff;
+  padding: 2.5rem 1.3rem;
+  border-radius: 1rem;
+  margin-bottom: 3rem;
+  text-align: center;}
+
+  .service-box .s-title{font-size: 1.4rem;
+                        text-transform: uppercase;
+                        text-align: center;
+                         padding: 1.4rem 0;
+                        margin-bottom: .5rem;
+                         font-weight: 500;
+                         line-height: 1.2;}
+
+  .counter-bg{background-attachment: fixed;
+              background-color: blue;
+               background-image:url(../img/counters-bg.jpg);
+               background-size: cover;
+              background-position: center center;
+               width: 100%;
+              height: 60vh;
+              position: relative;}
+
+
+
+  .counter-layer{background-color:#0078ff ;
+                opacity: .7;
+                position:absolute;
+                z-index: 10px;
+                top: 0;
+                left: 0;
+                height: 60vh;
+                width: 100%;
+                 }
+
+
+  .icon-circle{height: 60px;
+                width: 60px;
+                line-height: 1.5;
+                box-shadow: 0 0 0 10px #cde1f8;
+                border-radius: 50%;
+                text-align: center;
+                margin:  0 auto;}
+
+
+
+.counter-box{padding-top: 1.5rem !important;}
+
+
+
+  .test-bg{background-attachment: fixed;
+           background-color: blue;
+           background-image:url(../img/overlay-bg.jpg);
+           background-size: cover;
+           background-position: center center;
+           width: 100%;
+           height: 60vh;
+           position: relative;}
+
+
+
+   .test-layer{background-color:#0078ff ;
+                opacity: .7;
+                position:absolute;
+                z-index: 10px;
+                top: 0;
+                left: 0;
+               height: 60vh;
+                width: 100%;
+               }
+
+
+  .category{transform:translateY(-120%);
+            border-radius: 4px;
+            display: inline-block;
+            padding: 5px 10px;
+          background-color: #0078ff;}
+
+
+                                             
+   .card-title{text-align: left;}
+
+   .avatar{width: 30px;}
+
+
+   .contact-bg{background-attachment: fixed;
+                background-color: blue;
+                background-image:url(../img/overlay-bg.jpg);
+                background-size: cover;
+                background-position: center center;
+                width: 100%;
+                
+                position: relative;}
+
+
+    .contact-layer{background-color:#0078ff ;
+                    opacity: .7;
+                   
+                   height: 100%;
+                    width: 100%;
+                   }
+
+
+     .title-line{width: 100px;
+                  background-color: #0078ff;
+                height: 2px;}
+
+
+    .btn{margin-top: 10px !important;
+         margin: auto;
+       color: #fff;
+       font-weight: 300;
+      background-color: #0078ff !important;}
+
+
+     .social{list-style: none;}
+
+     footer{background-color: #0078ff;}
+     .nav-link{position: relative;}
+     .nav-link::after{
+             content: "";
+             position: absolute;
+             bottom:0;
+         left: 0;             
+             width: 0;
+             height: 2px;
+             background-color: #f4f4f4;
+             transition: 1s;
+     }
+     .nav-link:hover:after{width:80%}
+
+     .circle{position: relative; transition: 1s8;}
+     
+     .circle:hover{background-color: #0078ff;}
